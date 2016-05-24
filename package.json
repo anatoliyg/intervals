@@ -1,0 +1,23 @@
+{
+  "name": "intervals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anatoliyg/intervals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anatoliyg/intervals/issues"
+  },
+  "homepage": "https://github.com/anatoliyg/intervals#readme",
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "promise": "^7.1.1"
+  }
+}
